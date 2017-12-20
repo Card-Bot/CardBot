@@ -1,5 +1,8 @@
 {
-  "token": "token",
+  "token": {
+    "bot": "bot-token",
+    "list": "bot-list-token"
+  },
   "prefix": "c.",
   "authors": [
     "Joshua Barnett"
